@@ -1,0 +1,30 @@
+.red{
+  background:red;
+  color:#fff
+}
+.yellow{
+  background:yellow;
+  color:#fff
+}
+.pink{
+  background:pink;
+  color:#fff
+}
+.green{
+  background:green;
+  color:#fff
+}
+.white{
+  background:#000;
+  color:#fff
+}
+.states {
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  width:30px;
+  height:30px;
+  float: left;
+  margin:0 2px;
+  cursor: pointer;
+}
